@@ -58,3 +58,15 @@ h1{
 #m_ho:hover {
     color: #ff6145;
 }
+
+#w_ho:active {
+    color: #ffffff;
+}
+
+#i_ho:active {
+    color: #ffffff;
+}
+
+#m_ho:active {
+    color: #ffffff;
+}
